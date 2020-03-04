@@ -1,0 +1,15 @@
+C:\Users\renan.ponick\CSharpeDesktop\bin\Debug\netcoreapp3.1\CSharpeDesktop.exe
+C:\Users\renan.ponick\CSharpeDesktop\bin\Debug\netcoreapp3.1\CSharpeDesktop.deps.json
+C:\Users\renan.ponick\CSharpeDesktop\bin\Debug\netcoreapp3.1\CSharpeDesktop.runtimeconfig.json
+C:\Users\renan.ponick\CSharpeDesktop\bin\Debug\netcoreapp3.1\CSharpeDesktop.runtimeconfig.dev.json
+C:\Users\renan.ponick\CSharpeDesktop\bin\Debug\netcoreapp3.1\CSharpeDesktop.dll
+C:\Users\renan.ponick\CSharpeDesktop\bin\Debug\netcoreapp3.1\CSharpeDesktop.pdb
+C:\Users\renan.ponick\CSharpeDesktop\obj\Debug\netcoreapp3.1\CSharpeDesktop.csprojAssemblyReference.cache
+C:\Users\renan.ponick\CSharpeDesktop\obj\Debug\netcoreapp3.1\staticwebassets\CSharpeDesktop.StaticWebAssets.Manifest.cache
+C:\Users\renan.ponick\CSharpeDesktop\obj\Debug\netcoreapp3.1\staticwebassets\CSharpeDesktop.StaticWebAssets.xml
+C:\Users\renan.ponick\CSharpeDesktop\obj\Debug\netcoreapp3.1\CSharpeDesktop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\renan.ponick\CSharpeDesktop\obj\Debug\netcoreapp3.1\CSharpeDesktop.AssemblyInfoInputs.cache
+C:\Users\renan.ponick\CSharpeDesktop\obj\Debug\netcoreapp3.1\CSharpeDesktop.AssemblyInfo.cs
+C:\Users\renan.ponick\CSharpeDesktop\obj\Debug\netcoreapp3.1\CSharpeDesktop.RazorTargetAssemblyInfo.cache
+C:\Users\renan.ponick\CSharpeDesktop\obj\Debug\netcoreapp3.1\CSharpeDesktop.dll
+C:\Users\renan.ponick\CSharpeDesktop\obj\Debug\netcoreapp3.1\CSharpeDesktop.pdb
