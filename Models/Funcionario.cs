@@ -1,7 +1,4 @@
 using System;
-using System.Collections.Generic;
-using Repositories;
-
 namespace Models
 {
     public class Funcionario
@@ -14,6 +11,9 @@ namespace Models
                 Nome = nome;
                 Cpf = cpf;
                 Repositories.Funcionario.addFunc(this);
+            }
+            public override string ToString(){
+                return $" ID: { ID } \n Nome: { Nome } \n Cpf: { Cpf }";
             }
             
         }
